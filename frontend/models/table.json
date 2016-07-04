@@ -1,0 +1,32 @@
+#orcl_tab
+{
+  "id":11,
+  "tab_type":"SDDV Static Data Dictionary Views | DPV Dynamic Performance Views",
+  "tab_name":"dba_tables",
+  "tab_desc":"aaaa",
+  "tab_test":111
+}
+#orcl_tab_col
+{
+  "tab_id":111,
+  "col_id":111,
+  "col_name":"owner",
+  "col_datatype":"number",
+  "col_desc":"asss",
+  "col_rel":[[11,11],[11,11],[11,11]],
+  "col_test":111
+}
+#orcl_par
+{
+  "id":111,
+  "par_name":"adfd",
+  "par_ppy":"aa",
+  "par_desc":"aaa",
+  "par_test":"fff"
+}
+#orcl_ent
+{
+  "id":111,
+  "ent_name":"aaa",
+  "ent_test":"fff"
+}
